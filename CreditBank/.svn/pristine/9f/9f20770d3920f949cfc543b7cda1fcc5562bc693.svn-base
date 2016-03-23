@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>titleDesc</key>
+		<string>我只知道我在被你骗得团团转的时候心里是最满足的。</string>
+		<key>icon</key>
+		<string>img_01</string>
+		<key>title</key>
+		<string>微微一笑，很是倾城，顾漫作品</string>
+	</dict>
+	<dict>
+		<key>titleDesc</key>
+		<string>我就喜欢为你做各种事情，我好像一直在等着为你做各种事情。以前轮不到我，现在我从队尾排到了第一了</string>
+		<key>icon</key>
+		<string>img_02</string>
+		<key>title</key>
+		<string>记忆中的东京爱情故事</string>
+	</dict>
+	<dict>
+		<key>titleDesc</key>
+		<string>我有两千万的时候你离开我，我一无所有的时候你回到我身边。为什么呀</string>
+		<key>icon</key>
+		<string>img_03</string>
+		<key>title</key>
+		<string>剩得漫不经心，却又可歌可泣</string>
+	</dict>
+	<dict>
+		<key>titleDesc</key>
+		<string>因为我爱的是你这个人，我只爱你</string>
+		<key>icon</key>
+		<string>img_04</string>
+		<key>title</key>
+		<string>神秘空难事故揭秘</string>
+	</dict>
+	<dict>
+		<key>titleDesc</key>
+		<string>要不我明儿去和那男的比比，我觉得我这人吧，在吃醋方面我谁都不服</string>
+		<key>icon</key>
+		<string>img_05</string>
+		<key>title</key>
+		<string>我朝人民都需要治愈，莫弃疗</string>
+	</dict>
+</array>
+</plist>

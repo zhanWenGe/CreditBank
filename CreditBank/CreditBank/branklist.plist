@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>brankName</key>
+		<string>中国民生银行</string>
+		<key>brankIcon</key>
+		<string>cmbc</string>
+		<key>brankNo</key>
+		<string>4209</string>
+		<key>brankTypeId</key>
+		<string>10</string>
+		<key>creditCard</key>
+		<string>信用卡</string>
+		<key>pointsImported</key>
+		<string>10000</string>
+	</dict>
+	<dict>
+		<key>brankName</key>
+		<string>招商银行</string>
+		<key>brankIcon</key>
+		<string>cmb</string>
+		<key>brankNo</key>
+		<string>5807</string>
+		<key>brankTypeId</key>
+		<string>12</string>
+		<key>creditCard</key>
+		<string>储蓄卡</string>
+		<key>pointsImported</key>
+		<string>2000</string>
+	</dict>
+	<dict>
+		<key>brankName</key>
+		<string>建设银行</string>
+		<key>brankIcon</key>
+		<string>ccb</string>
+		<key>brankNo</key>
+		<string>5807</string>
+		<key>brankTypeId</key>
+		<string>12</string>
+		<key>creditCard</key>
+		<string>储蓄卡</string>
+		<key>pointsImported</key>
+		<string>100</string>
+	</dict>
+	<dict>
+		<key>brankName</key>
+		<string>中国银行</string>
+		<key>brankIcon</key>
+		<string>icbc</string>
+		<key>brankNo</key>
+		<string>5807</string>
+		<key>brankTypeId</key>
+		<string>12</string>
+		<key>creditCard</key>
+		<string>信用卡</string>
+		<key>pointsImported</key>
+		<string>50</string>
+	</dict>
+</array>
+</plist>

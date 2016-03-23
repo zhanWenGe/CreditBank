@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>42120113-B445-4677-A511-463A7842AD8D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CreditBank</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>d0ae8ac6-e666-4f5d-b0d3-8ebcc4258da1++7306</key>
+		<string>svn://svn.alltosun.net/ios/credit_bank/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CreditBank/CreditBank.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>d0ae8ac6-e666-4f5d-b0d3-8ebcc4258da1++7306</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>d0ae8ac6-e666-4f5d-b0d3-8ebcc4258da1++7306</key>
+		<string>svn://svn.alltosun.net/ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://svn.alltosun.net/ios/credit_bank/trunk/CreditBank/CreditBank.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>d0ae8ac6-e666-4f5d-b0d3-8ebcc4258da1++7306</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>d0ae8ac6-e666-4f5d-b0d3-8ebcc4258da1++7306</string>
+			<key>IDESourceControlWCCName</key>
+			<string>credit_bank</string>
+		</dict>
+	</array>
+</dict>
+</plist>

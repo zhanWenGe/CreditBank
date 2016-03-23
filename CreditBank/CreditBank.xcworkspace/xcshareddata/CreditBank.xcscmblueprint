@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d0ae8ac6-e666-4f5d-b0d3-8ebcc4258da1++2235",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d0ae8ac6-e666-4f5d-b0d3-8ebcc4258da1++2235" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d0ae8ac6-e666-4f5d-b0d3-8ebcc4258da1++2235" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "42120113-B445-4677-A511-463A7842AD8D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d0ae8ac6-e666-4f5d-b0d3-8ebcc4258da1++2235" : "CreditBank"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CreditBank",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CreditBank.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.alltosun.net\/ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d0ae8ac6-e666-4f5d-b0d3-8ebcc4258da1++2235"
+    }
+  ]
+}
